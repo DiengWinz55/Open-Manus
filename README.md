@@ -115,16 +115,9 @@ python run_flow.py
 
 We welcome any friendly suggestions and helpful contributions! Just create issues or submit pull requests.
 
-Or contact @mannaandpoem via 📧email: mannaandpoem@gmail.com
+Or contact @DiengWinz via 📧email: tdieng591@gmail.com
 
 **Note**: Before submitting a pull request, please use the pre-commit tool to check your changes. Run `pre-commit run --all-files` to execute the checks.
-
-## Community Group
-Join our networking group on Feishu and share your experience with other developers!
-
-<div align="center" style="display: flex; gap: 20px;">
-    <img src="assets/community_group.jpg" alt="OpenManus 交流群" width="300" />
-</div>
 
 ## Star History
 
