@@ -124,13 +124,11 @@ minimizing disruptions. Let’s work together to build a supportive and welcomin
 - Tag others only when their input is critical or urgent, and use @here, @channel or @everyone sparingly to minimize
   disruptions.
 - Be patient, as open-source contributors and maintainers often have other commitments and may need time to respond.
-- Post questions or discussions in the most relevant
-  channel ([discord - #general](https://discord.com/channels/1125308739348594758/1138430348557025341)).
+
 - When asking for help or raising issues, include necessary details like links, screenshots, or clear explanations to
   provide context.
 - Keep discussions in public channels whenever possible to allow others to benefit from the conversation, unless the
   matter is sensitive or private.
-- Always adhere to [our standards](https://github.com/mannaandpoem/OpenManus/blob/main/CODE_OF_CONDUCT.md#our-standards)
   to ensure a welcoming and collaborative environment.
 - If you choose to mute a channel, consider setting up alerts for topics that still interest you to stay engaged. For
   Slack, Go to Settings → Notifications → My Keywords to add specific keywords that will notify you when mentioned. For
@@ -138,25 +136,5 @@ minimizing disruptions. Let’s work together to build a supportive and welcomin
   you only when “LLMs” appears in messages. Also for Discord, go to the channel notifications and choose the option that
   best describes your need.
 
-## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
-
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-
-[Mozilla CoC]: https://github.com/mozilla/diversity
-
-[FAQ]: https://www.contributor-covenant.org/faq
-
-[translations]: https://www.contributor-covenant.org/translations
