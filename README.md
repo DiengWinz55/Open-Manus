@@ -27,7 +27,7 @@ conda activate open_manus
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/mannaandpoem/OpenManus.git
+git clone https://github.com/DiengWinz55/Open-Manus.git
 cd OpenManus
 ```
 
